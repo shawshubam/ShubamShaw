@@ -13,7 +13,7 @@ Aspiring Data Analyst | Passionate about transforming data into actionable insig
 ## 📌 Featured Projects
 - [Project 1: Title](https://github.com/shawshubam/Movie_Recommendation) — Content-Based Movie Recommendation System
 - [Project 2: Title](https://github.com/shawshubam/BlinkIt-Power-BI) — BlinkIt-Power-BI
-- [Project 3: Title]([(https://github.com/shawshubam/Youtube-Data-Scrapping-using-API-Integration)) — YouTube Data Scraping and Analysis
+- [Project 3: Title](https://github.com/shawshubam/Youtube-Data-Scrapping-using-API-Integration) — YouTube Data Scraping and Analysis
 
 ## 🛠️ Skills
 Python | SQL | Excel | Tableau | Power BI | Statistics | Data Visualization
