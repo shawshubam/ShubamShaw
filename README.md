@@ -3,7 +3,7 @@
 
 Aspiring Data Analyst | Passionate about transforming data into actionable insights
 
-- 🔭 I’m currently working on: Exploratort Data Analysis
+- 🔭 I’m currently working on: Exploratory Data Analysis
 - 🌱 I’m learning: Data Warehousing
 - 👯 I’m looking to collaborate on: Data Analysis Project
 - 📫 How to reach me: https://www.linkedin.com/in/shubam-kumar-shaw-data-analyst/
